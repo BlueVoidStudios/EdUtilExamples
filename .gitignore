@@ -70,4 +70,8 @@ Saved/*
 Intermediate/*
 Plugins/*/Intermediate/*
 
-# Cache files for 
+# Cache files for the editor to use
+DerivedDataCache/*
+
+# Starter content can be added in the editor
+Content/StarterContent/*
