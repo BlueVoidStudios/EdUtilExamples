@@ -1,3 +1,4 @@
+![Screenshot](screenshot.jpg)
 # Editor Utility Widget Examples
 A collection of example use cases for editor utility widgets in Unreal Engine 4.22
 
